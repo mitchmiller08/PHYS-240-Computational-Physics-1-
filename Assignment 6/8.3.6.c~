@@ -1,0 +1,11 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <math.h>
+#include "/usr/include/clapack.h"
+#include <cblas.h>
+
+//Mitchell Miller
+//Assignment 6
+//PHYS 240 4/16/10
+
+//http://www.netlib.org/lapack/double/
