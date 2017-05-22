@@ -1,0 +1,3 @@
+This repo contains code made during PHYS 240 (Computational Physics 1) at Illinois Institute of Technology taught by Jeff Terry.  The course covered common computational techniques used by physicists:  differentiation, integration, Monte Carlo simulations, and matrix mathematics.  All code was written in C++.  Also included are .pdf's of lab reports detailing the theory and implementation of these methods.
+
+The final project consists of a molecular dynamics simulation of a 2D argon gas.  This simulations employs Lennard-Jones (6-12) potential to approximate molecular interactions and period-boundary conditions to simulate an infinite container.
